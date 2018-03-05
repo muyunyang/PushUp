@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void PushUp(){
         int i=1+1;
+        int ii=1+3;
     }
 }
